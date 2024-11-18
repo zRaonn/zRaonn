@@ -3,7 +3,7 @@
 <h3 align="center">A passionate programming student.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
-- 🌱 I’m currently learning **Vue, puthon and php.**
+- 🌱 I’m currently learning **Vue, python and php, and master java, javascript, html, css...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
