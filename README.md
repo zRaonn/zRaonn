@@ -1,5 +1,7 @@
+![MasterHead](https://nerdhut.de/wp-content/uploads/2023/06/coding-banner.jpg?w=648)
 <h1 align="center">Hi 👋, I'm Hugo Sánchez</h1>
 <h3 align="center">A passionate programming student.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
 - 🌱 I’m currently learning **Vue, puthon and php.**
 
